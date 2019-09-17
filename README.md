@@ -1,10 +1,10 @@
 # DoE-ProxyRack
 This is the source code of DNS-over-Encryption client-side usability tests.
-We run this code on CentOS6 with Python 2.7.6.
+We run this code on CentOS 6 with Python 2.7.6.
 
-For more details, you may refer to our paper at [IMC '19](https://conferences.sigcomm.org/imc/2019/).
+For more details, you may refer to our paper: An End-to-End, Large-Scale Measurement of DNS-over-Encryption: How Far Hvae We Come? at [IMC '19](https://conferences.sigcomm.org/imc/2019/).
 
-# Single Python Files
+# The source files
 ### proxy_rack_single_threaded.py
 This is the main program of the tests, containing all test items.
 
